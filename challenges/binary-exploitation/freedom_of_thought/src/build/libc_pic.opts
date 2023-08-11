@@ -1,0 +1,14 @@
+-R .gnu.glibc-stub.sigreturn
+-R .gnu.glibc-stub.lchmod
+-R .gnu.glibc-stub.sstk
+-R .gnu.glibc-stub.revoke
+-R .gnu.glibc-stub.gtty
+-R .gnu.glibc-stub.stty
+-R .gnu.glibc-stub.chflags
+-R .gnu.glibc-stub.fchflags
+-R .gnu.glibc-stub.__compat_bdflush
+-R .gnu.glibc-stub.getmsg
+-R .gnu.glibc-stub.putmsg
+-R .gnu.glibc-stub.fattach
+-R .gnu.glibc-stub.fdetach
+-R .gnu.glibc-stub.setlogin
