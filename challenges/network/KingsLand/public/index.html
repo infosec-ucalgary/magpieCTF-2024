@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>BelovedFlawedSecurity</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap" rel="stylesheet">
+	<!-- import the webpage's stylesheet -->
+	<link rel="stylesheet" href="css/style.css">
+
+
+	</script>
+</head>
+
+<body>
+<center>
+
+	<header>
+		<h1 id ='header'>Welcome to King's Land</h1>
+		<p id = 'royalQuestion'>Are you a royal member?</p>
+	</header>
+
+	<main>
+    <br>
+    <br>
+  
+
+    
+   <form action="/action_page.php" method="post" id = 'login_form'>
+   <div class="container">
+      <label for="uname" id = 'uname'><b>Username</b></label>
+      <input type="text" name="uname" required>
+      <br>
+      <br>
+         <br>
+
+      <label for="psw" id = 'psw'><b>Password</b></label>
+      <input type="password" name="psw" required>
+      <br>
+         <br>
+                 <input type="reset" value="Cancel"/>
+
+   <input type="button" onclick="check(this.form)" value="Login"/>
+  </form>
+  <script src="index.js"></script>
+ 
+  <!--
+  <script language="javascript" 
+	 >
+
+	 import sha255 from 'js-sha256';
+
+
+	  function check(form) { /*function to check userid & password*/
+       /*the following code checkes whether the entered userid and password are matching*/
+	var hash = sha255.create(); 
+	hash.update('form.uname.value');
+	let username = hash.hex();
+	hash.update('form.psw.value');
+	let password = hash.hex();
+
+
+        if(username == "18e34e9cdbf62b299c38e4a1ef6b4aa41cf60e0821c99d3751ba41e4e34073a4" && password == "8b203c69e5996b589343576c3e45d27f1f67c7fa7f7eb560ff14e7647adf7179") {
+            window.open('target.html')/*opens the target page while Id & password matches*/
+        }
+        else {
+            alert("Error Password or Username")/*displays error message*/
+        }
+    }
+  </script>
+  -->
+   </div>
+
+  </form>
+    <br>
+
+    		<p id = 'peasants'>Go away peasants</p>
+    <br>
+
+        <img src="/assets/castle.jpg" alt="A castle of the King Land empire" id = 'castle'>
+</center>
+
+  </main>
+  </body>
+</html>

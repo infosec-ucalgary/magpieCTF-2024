@@ -1,0 +1,66 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #EDE0D4;
+
+}
+#target{
+  height: 100%;
+  width: 100%;
+  background-color: #e0fbfc;
+}
+
+*{
+margin: 0px;
+padding: 0px;
+}
+
+
+#header {
+  font-size:100px;
+  padding-top: 1em;
+  font-family: 'Qwitcher Grypen', cursive;
+}
+
+#header2 {
+  font-size:100px;
+  padding-top: 5em;
+  font-family: 'Qwitcher Grypen', cursive;
+}
+
+#royalQuestion {
+font-family: 'Qwitcher Grypen', cursive;
+  font-size:50px;
+  padding-top: 0.5em;
+}
+#royalQuestion2 {
+font-family: 'Crimson Text', serif;
+  font-size:25px;
+  padding-top: 0.5em;
+}
+#uname{
+font-family: 'Crimson Text', serif;
+  font-size:20px;
+}
+#psw{
+font-family: 'Crimson Text', serif;
+  font-size:20px;
+}
+#pea{
+  background-color: #edede9;
+font-family: 'Roboto Mono', monospace;
+  font-size:15px;
+}
+
+#login-form-submit {
+  background-color: #7F5539; 
+  border:beige;
+  color: white;
+  padding: 10px 32px;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: 'Crimson Text', serif;
+}
+

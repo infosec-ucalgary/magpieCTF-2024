@@ -1,0 +1,12 @@
+services:
+  landing:
+    container_name: kingsLand
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "80:80"
+        #    volumes:
+        #      - "/tmp/metrics.txt:/tmp/participating-uuids.txt"
+
