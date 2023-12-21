@@ -3,7 +3,17 @@
 ### Author: Ned Liu
 
 ## Description
-We received this traffic that contains a key to set an AI to be free. The sender also mentioned some sort of key and told us this is definitely not a domain. I wonder what that means.
+Key for the domain
+Bounty: $50,000
+Organization: Singularity
+
+We received this traffic that contains a key to set an AI to be free. The sender also mentioned some sort of keys and some strings in the traffic. I wonder what that means. 
+
+Any help is appreciated, thanks.
+
+Sincerely,
+
+Singularity
 
 ## Hints
 1. I wonder what the extra file is for? Perhaps a key?
