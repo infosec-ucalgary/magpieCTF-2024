@@ -9,14 +9,14 @@ The file may get picked up by anti-virus. If the downloaded file has the hash ab
 
 ## Hints
 1. I knew a spy with the code "D.N.". Maybe he/she can help me with the task?
-2. It looks like some variable value are not used. I wonder why.
+2. It looks like some variable values are not used. I wonder why.
 
 ## Solution
 1. String the binary and you will realize it is a .NET binary.
-2. Download DnSpy (or eqivalent) to debug the program.
+2. Download DnSpy (or equivalent) to debug the program.
 3. Run the executable and you will realize it says "The truth is hidden at the place where the program DOES NOT care about!"
-4. Looking at the program you will see that there are classes from 1 - 20 have 5 different fields. However, only 4 fields are used.
-5. Use DnSpy to edit the code so it returns the field that is NOT used. Do the same to all 20 classes.
+4. Looking at the program you will see that there are classes from 1 - 20 that have 5 different fields. However, only 4 fields are used.
+5. Use DnSpy to edit the code so it returns the field that is NOT used. Do the same for all 20 classes.
 6. Export the new executable and run it. You will see the flag.
 
 ## Flag
