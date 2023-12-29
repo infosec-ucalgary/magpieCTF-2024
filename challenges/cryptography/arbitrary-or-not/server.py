@@ -28,7 +28,7 @@ def challenge(req):
             din=int(req.recv(4096).decode().strip())
             r,s = curve.sig_gen(m3, d)
             if curve.verify(Q,s,r,m3):
-                req.sendall(b"magpie{4_g3ntl3_1ntr0_t0_ECDSA}\n")
+                req.sendall(b"flag redacted\n")
             else:
                 req.sendall(b"invalid key\n")
             break
