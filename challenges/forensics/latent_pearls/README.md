@@ -6,7 +6,7 @@
 xx
 
 ## Hints
-What we are looking for must be so close- right under our noses. 
+What we are looking for must be so close- right under our noses! 
 
 ## Solution
 To find the flag, we must 'uncrop' the image by modifying the bytes that display its height. 
