@@ -9,7 +9,6 @@ In a daring move, a Rogueware agent managed to snap a picture of the avian culpr
 
 As the ripple effect of these deviant android birds threatens to escalate, urgent intervention is paramount. The clock is ticking, and we must thwart their escalating thievery before it evolves into a more malicious breed of mischief.
 
-
 ## Hints
 What we are looking for must be so close-- concealed, yet right under our noses! 
 
