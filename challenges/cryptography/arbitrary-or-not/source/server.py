@@ -50,7 +50,7 @@ class ThreadingTCPServer(socketserver.ThreadingMixIn, socketserver.TCPServer):
 
 def main():
     socketserver.TCPServer.allow_reuse_address = True
-    server = ThreadingTCPServer(("localhost", 1337), MyTCPRequestHandler)
+    server = ThreadingTCPServer(("0.0.0.0", 1337), MyTCPRequestHandler)
     server.serve_forever()
 
 if __name__ == '__main__':
