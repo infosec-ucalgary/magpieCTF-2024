@@ -3,14 +3,14 @@
 ### Author: <Marianna (MariannaFerr)>
 
 ## Description
-The enigmatic group, Rogueware, notorious for their advocacy against the malign use of androids and AI, has raised an alarm. Android birds, enticed by the allure of shiny objects, have taken a liking to theft, pilfering everything from smartphones and wallets to delicate pearl necklaces.
+A new strain of malware from the enigmatic group Rogueware has raised an alarm. Affecting some of the older models of BinCortex's android birds, they have taken a liking to theft, pilfering everything from smartphones and wallets to delicate pearl necklaces.
 
-In a daring move, a Rogueware agent managed to snap a picture of the avian culprits during their latest heist. However, in a twist of digital ingenuity, the thieving birds tampered with the image, leaving behind a cryptic puzzle for those daring enough to unravel it.
+A street camera managed to snap a photo of one of the droids, but it appears that there was some interference in delivering the image, as part of the image failed to deliver. You're tasked with finding the missing data and reporting it back to us.
 
-As the ripple effect of these deviant android birds threatens to escalate, urgent intervention is paramount. The clock is ticking, and we must thwart their escalating thievery before it evolves into a more malicious breed of mischief.
+ - Bounty posted by *Abberant Watchdogs* and *BinCortex*
 
 ## Hints
-What we are looking for must be so close-- concealed, yet right under our noses! 
+What we are looking for must be so close-- concealed, yet right **under** our noses! 
 
 ## Solution
 To find the flag, we must 'uncrop' the image by modifying the bytes that display its height. 
