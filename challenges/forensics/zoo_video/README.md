@@ -6,7 +6,7 @@
 We've obtained some peculiar file that we believe has some important information regarding Rogueware's recent activities. This bounty is for anyone who can uncover any important data from the file.
 - Bounty posted by *Abberant Watchdogs*
 ## Hints
-steganography
+- Our team couldn't find much, but the peculiar audio has been noted a few times during analysis...
 
 ## Solution
 - Upon watching the video, there will be weird audio playing within the first <5 seconds.
