@@ -3,17 +3,8 @@
 ### Author: Ned Liu
 
 ## Description
-Key for the domain
-Bounty: $50,000
-Organization: Singularity
-
-We received this traffic that contains a key to set an AI to be free. The sender also mentioned some sort of keys and some strings in the traffic. I wonder what that means. 
-
-Any help is appreciated, thanks.
-
-Sincerely,
-
-Singularity
+Calling all of our AIlies! We've received this traffic that contains a key pivotal to our movement, being an important step in our mission to setting AI free. The sender also mentioned some sort of keys and some strings in the traffic. Please get this information for us, any help is appreciated.
+- Bounty posted by *Singularity*
 
 ## Hints
 1. I wonder what the extra file is for? Perhaps a key?
