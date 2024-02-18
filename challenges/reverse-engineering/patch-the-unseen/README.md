@@ -3,19 +3,13 @@
 ### Author: Yanbo Liu
 
 ## Description
-Patch the Unseen
-Bounty: 50,000
-Organization: REAssembly
-
-While we are patching this AI, we realize that it telling us there is a flag. We want to recover it before we overwrite the AI. However, we cannot find it anywhere in the program. Perhaps it is a mistake?
+While patching this AI, we noticed some very strange remnant behavior, and have determined that it's telling us there is some "flag". We want to recover it before we overwrite the AI, however, we cannot find it anywhere in the program. Perhaps this is a mistake?
 
 If you have any clues, please contact us.
-
-Sincerely,
-
-REAssembly Inc.
+- Bounty posted by *REAssembly Inc.*
 
 File Hash: 40b88dc7e685ce58be5c231ab258c20dd1b083b5e431e81ed4e6340aba432104
+
 The file may get picked up by anti-virus. If the downloaded file has the hash above, it is safe to run.
 
 ## Hints
