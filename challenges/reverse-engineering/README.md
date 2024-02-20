@@ -1,6 +1,6 @@
-# <SpaceEscape>
-### Category: <Reverse Engineering> <Easy>
-### Author: <Paige So’Brien>
+### SpaceEscape
+### Category: Reverse Engineering Easy
+### Author: Paige So’Brien
 
 ## Description
 A mini text adventure game executable where you explore rooms on a ship taken over by the definitely-not-a-knockoff AI supercomputer HOL 8000 and need to find the password to the mainframe terminal. 
