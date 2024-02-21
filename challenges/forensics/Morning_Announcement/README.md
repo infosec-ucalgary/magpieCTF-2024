@@ -16,4 +16,4 @@ Rogueware Inc.
 
 ### Flag
 
-magpie{all_androids_tune_in_to_1061_AM'}
+magpie{all_androids_tune_in_to_1061_AM}
