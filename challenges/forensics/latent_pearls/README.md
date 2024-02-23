@@ -5,7 +5,7 @@
 ## Description
 A new strain of malware from the enigmatic group Rogueware has raised an alarm. Affecting some of the older models of BinCortex's android birds, they have taken a liking to theft, pilfering everything from smartphones and wallets to delicate pearl necklaces.
 
-A street camera managed to snap a photo of one of the droids-- but it appears that there was some interference in delivering the image, as part of the image failed to deliver. You're tasked with finding the missing data and reporting it back to us.
+A street camera managed to snap a photo of one of the droids, but it appears that there was some interference in delivering the image, as part of the image failed to deliver. You're tasked with finding the missing data and reporting it back to us.
 
  - Bounty posted by *Abberant Watchdogs* and *BinCortex*
 
