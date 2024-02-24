@@ -26,9 +26,9 @@ def challenge(req):
 
             m3=GMP(int(h("".join(random.sample(ALPHABET, 12)).encode()).hexdigest(),16))
             din=int(req.recv(4096).decode().strip())
-            r,s = curve.sig_gen(m3, d)
+            r,s = curve.sig_gen(m3, din)
             if curve.verify(Q,s,r,m3):
-                req.sendall(b"flag redacted\n")
+                req.sendall(b"magpie{flag}\n")
             else:
                 req.sendall(b"invalid key\n")
             break
@@ -50,7 +50,7 @@ class ThreadingTCPServer(socketserver.ThreadingMixIn, socketserver.TCPServer):
 
 def main():
     socketserver.TCPServer.allow_reuse_address = True
-    server = ThreadingTCPServer(("localhost", 1337), MyTCPRequestHandler)
+    server = ThreadingTCPServer(("0.0.0.0", 1337), MyTCPRequestHandler)
     server.serve_forever()
 
 if __name__ == '__main__':

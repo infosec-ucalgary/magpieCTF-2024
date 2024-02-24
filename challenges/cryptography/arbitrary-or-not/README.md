@@ -11,4 +11,4 @@ This wikipedia page should give you enough information to solve this challenge: 
 See solve script for more detail.
 
 ## Flag
-magpie{4_g3ntl3_1ntr0_t0_ECDSA}
+magpie{n3v3r_r3us3_y0ur_n0nc3}

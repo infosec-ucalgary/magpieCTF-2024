@@ -26,9 +26,9 @@ def challenge(req):
 
             m3=GMP(int(h("".join(random.sample(ALPHABET, 12)).encode()).hexdigest(),16))
             din=int(req.recv(4096).decode().strip())
-            r,s = curve.sig_gen(m3, d)
+            r,s = curve.sig_gen(m3, din)
             if curve.verify(Q,s,r,m3):
-                req.sendall(b"magpie{4_g3ntl3_1ntr0_t0_ECDSA}\n")
+                req.sendall(b"magpie{n3v3r_r3us3_y0ur_n0nc3}\n")
             else:
                 req.sendall(b"invalid key\n")
             break
