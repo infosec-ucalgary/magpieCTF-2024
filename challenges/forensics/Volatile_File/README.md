@@ -8,6 +8,9 @@ Good luck
 
 Bounty Posted By: Agent RazorKrypt
 
+## Memory Dump
+https://gofile.io/d/0RYNcM
+
 ## Hints
 The memory dump was made with DumpIt
 
